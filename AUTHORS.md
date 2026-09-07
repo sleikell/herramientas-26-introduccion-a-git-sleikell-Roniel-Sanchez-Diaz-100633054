@@ -1,3 +1,3 @@
 # Autores
 
-- sleikell (@sleikell)
+- Roniel Sanchez Diaz 100633054 (@sleikell)
