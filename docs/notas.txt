@@ -1,0 +1,2 @@
+Notas del proyecto Git.
+Este es un archivo de notas para el ejercicio 2.

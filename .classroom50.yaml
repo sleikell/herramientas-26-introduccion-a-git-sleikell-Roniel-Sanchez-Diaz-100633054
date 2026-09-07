@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "herramientas-26"
+assignment: "introduccion-a-git"
+owner:
+  username: "sleikell"
+  id: 84802965
+  accepted_at: "2026-09-06T14:12:37Z"
+source:
+  owner: "TDHclassroom"
+  owner_id: 219900396
+  repo: "git-basic"
+  branch: "main"
